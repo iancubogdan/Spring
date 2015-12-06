@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6eedb7f2-58dc-4dbd-840f-82f3efb07096" name="Default" comment="aspects">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springinaction/concert/Audience.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springinaction/concert/AudienceAround.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springinaction/concert/ConcertConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/springinaction/concert/Performance.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringInAction.iml" afterPath="$PROJECT_DIR$/SpringInAction.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="6eedb7f2-58dc-4dbd-840f-82f3efb07096" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SpringInAction.iws" />
@@ -826,12 +820,19 @@
       <workItem from="1447767866988" duration="677000" />
       <workItem from="1447839748619" duration="1184000" />
       <workItem from="1448908147301" duration="2359000" />
-      <workItem from="1449404931039" duration="1515000" />
+      <workItem from="1449404931039" duration="1528000" />
     </task>
+    <task id="LOCAL-00001" summary="aspects">
+      <created>1449437952547</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1449437952547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21077000" />
+    <option name="totallyTimeSpent" value="21090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
