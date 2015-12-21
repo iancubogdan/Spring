@@ -1,12 +1,9 @@
 package com.springinaction.concert;
 
-import org.aspectj.lang.annotation.AfterReturning;
-import org.aspectj.lang.annotation.Aspect;
-import org.aspectj.lang.annotation.Before;
-import org.aspectj.lang.annotation.Pointcut;
+import org.aspectj.lang.annotation.*;
 
 /**
- * Created by Bogdan on 11/24/2015.
+ * Created by iancu_000 on 30-Nov-15.
  */
 @Aspect
 public class Audience {
@@ -27,5 +24,10 @@ public class Audience {
     @AfterReturning("performance()")
     public void applause(){
         System.out.println("CLAP CLAP CLAP!!!");
+    }
+
+    @AfterThrowing("performance()")
+    public void demandRefund(){
+        System.out.println("Demanding a refund");
     }
 }

@@ -1,7 +1,7 @@
 package com.springinaction.concert;
 
 /**
- * Created by Bogdan on 11/24/2015.
+ * Created by iancu_000 on 30-Nov-15.
  */
 public interface Performance {
     public void perform();
